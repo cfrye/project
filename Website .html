@@ -1,0 +1,84 @@
+<html>
+<head>
+  <title>The problem</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body background="https://ak5.picdn.net/shutterstock/videos/473089/thumb/1.jpg?i10c=img.resize(height:160)">
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">Comfort Wear</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Heat</a></li>
+      <li><a href="#">Cold</a></li>
+      <li><a href="#">Page 3</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+<div class="container"> 
+	<div class="jumbotron">
+	<font color= "blue"><h1><center>The Problem With Today's Clothing</center></h1>
+	<font color="blue">
+
+	
+
+<div class="container"> 
+	<div class="jumbotron">
+	<h1> Cross Country </h1>
+		<img src= "https://www.onutigers.com/images/2016-17/WXC-UWO.jpg"></img>
+	</div>
+</div>
+
+<div class="container"> 
+	<div class="jumbotron">
+	<h1><font size="15"> Basketball </h1></font>
+		<image width="100"><img src="http://i.turner.ncaa.com/ncaa/big/2017/04/06/1349535/1491503214217-mbk_top_ten_1920_.jpg-1349535.600x336.jpg"></img>
+	</div>
+		</div>
+		<div class="container">
+  <h2>Where You Can Find Us</h2> 
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="https://media.bizj.us/view/img/1736911/academy-sports-storefront*750xx1600-900-0-150.jpg" alt="Los Angeles" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="http://www.bnd.com/news/local/xj2bg3-walmart_super.jpg/alternates/LANDSCAPE_768/walmart_super.jpg" alt="Chicago" style="width:100%;">
+      </div>
+    
+      <div class="item">
+        <img src="http://www.dickssportinggoods.jobs/images/history.jpg" alt="New york" style="width:100%;">
+      </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+</body>
+</html>
